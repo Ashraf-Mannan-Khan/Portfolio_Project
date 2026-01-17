@@ -27,7 +27,7 @@ export function Tools() {
         <>
         <div className={styles.container}>
             <section className={styles.heading}>
-                <h2>Tools i use which i use Daily</h2>
+                <h2>Tools which i use Daily</h2>
             </section>
             <section className={styles.tools_container}>
                 <div className={styles.scroller}>
