@@ -18,7 +18,7 @@ export function DesktopHeader() {
             </NavLink>
           </li>
           <li className={styles.list_item}>
-            <a href="#work" className={styles.anchorLink}>
+            <a href="#desktopWork" className={styles.anchorLink}>
               Work
             </a>
           </li>
